@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud-centric world
 - 🌱 I’m currently learning AWS DevOps, python.
 - 💞️ I’m looking to collaborate on Cloud DevOps 
-- 📫 How to reach me on linkedin: Kowsalya Kumar
+- 📫 How to reach me :  1. linkedin: Kowsalya Kumar 2. instagram: kowsi_k__k
 - Trust me money is not everything and it affects everything!
 
 <!---
